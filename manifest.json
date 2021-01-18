@@ -1,14 +1,14 @@
 {
   "name": "Equity Analytics",
   "short_name": "Equity Analytics",
-  "start_url": "/jonesdylanbates.github.io/",
-  "scope": "/jonesdylanbates.github.io/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/jonesdylanbates.github.io/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
